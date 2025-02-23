@@ -130,7 +130,7 @@ html
         <p>Proudly serving all of Manhattan.</p>
         <!-- Google Maps Embed -->
         <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=Manhattan,NY" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDhTcUCgRHHJgi3v6SXbXJCeCbFNXEwac4&q=Manhattan,NY" allowfullscreen></iframe>
         </div>
     </section>
 
